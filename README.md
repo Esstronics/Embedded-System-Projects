@@ -1,2 +1,2 @@
 # Embedded-System-Projects
-The Repo contains embedded system project and IoT code.
+This Repo contains embedded system project and IoT code.
